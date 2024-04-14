@@ -79,11 +79,24 @@ list-style: none;
     background-color: #2e2f42;
 }
 
-*,
-::after,
-::before {
-    box-sizing: border-box;
+.main-title {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #fff;
 }
-.main-title {}
+  
+.press {
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    cursor: pointer;
+    background-color: #4D5AE5;
+}
 
-.press {}
+.part-third {
+    background-color: #F4F4FD;
+}
