@@ -9,6 +9,7 @@ body {
 }
 
 a {
+color: inherit;
 text-decoration: none;
 }
 
@@ -104,9 +105,6 @@ list-style-type: none;
     background-color: #FFFFFF; 
 }
 
-*, { 
-    box-sizing: border-box;
-    }
 
 .part-third {
     background-color: #F4F4FD;
