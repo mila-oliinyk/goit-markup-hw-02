@@ -131,6 +131,7 @@ button, select {
     text-transform: capitalize;
     text-align: center;
     color: #2e2f42;
+    display: none;
 }
 
 /* Part fourth */
@@ -146,6 +147,10 @@ button, select {
     color: #4d5ae5;
 }
 
+.logo-footer:hover,
+.logo-footer:focus {
+    color: #404bbf;
+}
 .end-logo-footer {
     color: #f4f4fd;
 }
