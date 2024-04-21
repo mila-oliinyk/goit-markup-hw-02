@@ -27,6 +27,11 @@ list-style-type: none;
     font-family: "Raleway", sans-serif;
 }
 
+.logo:hover,
+.logo:focus {
+    color: #404bbf;
+}
+
 .logo-part {
     color: #2e2f42
 }
